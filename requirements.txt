@@ -1,0 +1,10 @@
+crewai==1.14.4
+crewai-tools
+gspread
+google-auth
+google-auth-oauthlib
+google-api-python-client
+google-cloud-aiplatform
+python-dotenv
+httpx
+json-repair
